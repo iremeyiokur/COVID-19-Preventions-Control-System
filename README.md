@@ -29,14 +29,9 @@ Only the portions of datasets that available for free use only for research purp
 Each portion of the ISL-UFMD and ISL-UFHD datasets with sources and source licenses. Please note that datasets themselves are available under the license that is explained above by Interactive Systems Labs (ISL).
 
 
-<details>
-           <summary> ### Pexels Images ### </summary>
-           <p>
-             * Source: https://www.pexels.com
-             * The license of source images: https://www.pexels.com/license/
-           </p>
-</details>
-
+ ### Pexels Images ###
+ * Source: https://www.pexels.com
+ * The license of source images: https://www.pexels.com/license/
 
 ### FFQH Images ###
 
