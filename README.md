@@ -17,7 +17,7 @@ Only the portions of datasets that available for free use and redistribution are
 
 ![picture](images/fhi.png)
 
-## License Agreement##
+## License Agreement ##
 
 Interactive Systems Laboratory Unconstrained Face Mask Dataset (ISL-UFMD) and Interactive Systems Laboratory Unconstrained Face Hand Interaction Dataset (ISL-UFHD)  are available for non-commercial research purposes only.
 The published ISL-UFMD and ISL-UFHD datasets were collected from various sources from the Internet and they have different source licenses. 
@@ -40,27 +40,27 @@ ISL-UFMD and ISL-UFHD images under the Pexels folder allow free use, modificati
 Source: https://github.com/NVlabs/ffhq-dataset
 The license of source images: https://github.com/NVlabs/ffhq-dataset#licenses
 
-###CelebA ###
+### CelebA ###
 
 Source: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 The license of source images: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html (Agreement Section)
 
-###Labeled Facec in the Wild (LFW) Dataset ###
+### Labeled Facec in the Wild (LFW) Dataset ###
 
 Source: http://vis-www.cs.umass.edu/lfw/ 
 Available research purpose only
 
-###Youtube Videos ###
+### Youtube Videos ###
 
 Source: https://www.youtube.com
 The license of source images: (Creative Common) https://support.google.com/youtube/answer/2797468
 
-###Other Sources ###
+### Other Sources ###
 
 Source: Google, Bing Images, etc.
 If you do not want your images to be used in our datasets for the research purpose of this work, please contact us.
 
-##  Citation ##
+## Citation ##
 These datasets have been explained and have been used in [our paper](https://arxiv.org/abs/2103.08773). Please cite it, if you downloaded and used our datasets.
 
 ```
