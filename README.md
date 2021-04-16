@@ -19,12 +19,12 @@ Only the portions of datasets that available for free use and redistribution are
 
 ## License Agreement ##
 
-Interactive Systems Laboratory Unconstrained Face Mask Dataset (ISL-UFMD) and Interactive Systems Laboratory Unconstrained Face Hand Interaction Dataset (ISL-UFHD)  are available for non-commercial research purposes only.
-The published ISL-UFMD and ISL-UFHD datasets were collected from various sources from the Internet and they have different source licenses. 
-Neither The Interactive Systems Laboratory nor Karlsruhe Institute of Technology are not responsible for the content of these images.
-You agree not to redistribute, reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any part of the datasets/images, and any part of derived information/data/metadata.
-You agree not to further copy, and redistribute any part of the ISL-UFMD and ISL-UFHD datasets except for internal use at a single site within the same research organization.
-The ISL Lab has the right to terminate your access to the ISL-UFMD and ISL-UFHD datasets at any time.
+1. Interactive Systems Laboratory Unconstrained Face Mask Dataset (ISL-UFMD) and Interactive Systems Laboratory Unconstrained Face Hand Interaction Dataset (ISL-UFHD) are available for non-commercial research purposes only.
+2. The published ISL-UFMD and ISL-UFHD datasets were collected from various sources from the Internet and they have different source licenses. 
+3. Neither The Interactive Systems Laboratory nor Karlsruhe Institute of Technology are not responsible for the content of these images.
+4. You agree not to redistribute, reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any part of the datasets/images, and any part of derived information/data/metadata.
+5. You agree not to further copy, and redistribute any part of the ISL-UFMD and ISL-UFHD datasets except for internal use at a single site within the same research organization.
+6. The ISL Lab has the right to terminate your access to the ISL-UFMD and ISL-UFHD datasets at any time.
 
 Each portion of the ISL-UFMD and ISL-UFHD datasets with sources and source licenses. Please note that datasets themselves are available under the license that is explained above by ISL Lab.
 
