@@ -4,7 +4,7 @@ This is the GitHub repository of our work on the COVID-19 preventions control sy
 
 In the purpose of this study, we collected and annotated two novel datasets. The first dataset which is named as Interactive Systems Labs Unconstrained Face Mask Dataset (ISL-UFMD), contains 21316 face images. The second dataset which is named as Interactive Systems Labs Unconstrained Face Hand Dataset (ISL-UFHD), contains 32293 face images.   The datasets were collected from the Internet. Each source and the related license is explicitly mentioned under the Licence Agreement section. Information about each image is also explained in detail in isl-ufmd_info.xml and isl-ufhd_info.xml.
 
-Only the portions of datasets that available for free use and redistribution are published directly by the download link. You have to obtain by yourself the other remaining portions that are not allowed to redistribute. The related information about the sources of these images is shared in isl-ufmd_info.xml and isl-ufhd_info.xml for each dataset.
+Only the portions of datasets that available for free use only for research purposes are published directly by the download link. You have to obtain by yourself the other remaining portions that are not allowed to redistribute. The related information about the sources of these images is shared in isl-ufmd_info.xml and isl-ufhd_info.xml for each dataset.
 
 ## Interactive Systems Labs (ISL) Unconstrained Face Mask Dataset (ISL-UFMD) ##
 
