@@ -19,49 +19,47 @@ Only the portions of datasets that available for free use and redistribution are
 
 ## License Agreement ##
 
-1. Interactive Systems Labs Unconstrained Face Mask Dataset (ISL-UFMD) and Interactive Systems Laboratory Unconstrained Face Hand Interaction Dataset (ISL-UFHD) are available for non-commercial research purposes only.
-2. The published ISL-UFMD and ISL-UFHD datasets were collected from various sources from the Internet and they have different source licenses. 
-3. Neither The Interactive Systems Laboratory nor Karlsruhe Institute of Technology are not responsible for the content of these images.
-4. You agree not to redistribute, reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any part of the datasets/images, and any part of derived information/data/metadata.
-5. You agree not to further copy, and redistribute any part of the ISL-UFMD and ISL-UFHD datasets except for internal use at a single site within the same research organization.
-6. The Interactive Systems Labs (ISL) has the right to terminate your access to the ISL-UFMD and ISL-UFHD datasets at any time.
+1. Interactive Systems Labs Unconstrained Face Mask Dataset (ISL-UFMD) and Interactive Systems Labs Unconstrained Face Hand Interaction Dataset (ISL-UFHD) are available for **non-commercial research purposes** only.
+2. The published *ISL-UFMD and ISL-UFHD* datasets were collected from various sources from the Internet and they have different source licenses. 
+3. Neither The Interactive Systems Labs nor Karlsruhe Institute of Technology are not responsible for the content of these images.
+4. You agree **not to** redistribute, reproduce, duplicate, copy, sell, trade, resell or exploit for **any commercial purposes**, any part of the datasets/images, and any part of derived information/data/metadata.
+5. You agree **not to** further copy, and redistribute any part of the *ISL-UFMD and ISL-UFHD* datasets except for internal use at a single site within the same research organization.
+6. The Interactive Systems Labs (ISL) has the right to terminate your access to the *ISL-UFMD and ISL-UFHD* datasets at any time.
 
 Each portion of the ISL-UFMD and ISL-UFHD datasets with sources and source licenses. Please note that datasets themselves are available under the license that is explained above by Interactive Systems Labs (ISL).
 
 ### Pexels Images ###
 
-Source: https://www.pexels.com
-The license of source images: https://www.pexels.com/license/
-
-ISL-UFMD and ISL-UFHD images under the Pexels folder allow free use, modification for only academic research purposes, not available for any commercial use.
+* Source: https://www.pexels.com
+* The license of source images: https://www.pexels.com/license/
 
 ###  FFQH Images ###
 
-Source: https://github.com/NVlabs/ffhq-dataset
-The license of source images: https://github.com/NVlabs/ffhq-dataset#licenses
+* Source: https://github.com/NVlabs/ffhq-dataset
+* The license of source images: https://github.com/NVlabs/ffhq-dataset#licenses
 
 ### CelebA ###
 
-Source: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-The license of source images: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html (Agreement Section)
+* Source: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+* The license of source images: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html (Agreement Section)
 
 ### Labeled Facec in the Wild (LFW) Dataset ###
 
-Source: http://vis-www.cs.umass.edu/lfw/ 
-Available research purpose only
+* Source: http://vis-www.cs.umass.edu/lfw/ 
+* Available research purpose only
 
 ### Youtube Videos ###
 
-Source: https://www.youtube.com
-The license of source images: (Creative Common) https://support.google.com/youtube/answer/2797468
+* Source: https://www.youtube.com
+* The license of source images: (Creative Common) https://support.google.com/youtube/answer/2797468
 
 ### Other Sources ###
 
-Source: Google, Bing Images, etc.
-If you do not want your images to be used in our datasets for the research purpose of this work, please contact us.
+* Source: Google, Bing Images, etc.
+* If you do not want your images to be used in our datasets for the research purpose of this work, please contact us.
 
 ## Citation ##
-These datasets have been explained and have been used in [our paper](https://arxiv.org/abs/2103.08773). Please cite it, if you downloaded and used our datasets.
+These datasets have been explained and have been used in [our paper](https://arxiv.org/abs/2103.08773). You must cite our paper, if you downloaded and used our datasets.
 
 ```
 @article{eyiokur2021computer,
@@ -72,4 +70,4 @@ These datasets have been explained and have been used in [our paper](https://arx
 }
 ```
 
-Note: This repository will be updated soon and the datasets will be published.
+Note: The datasets will be published soon.
