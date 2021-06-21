@@ -2,20 +2,20 @@
 
 This is the GitHub repository of our work on the COVID-19 preventions control system to avoid transmission of the disease. Recently, The COVID-19 pandemic has affected the world since the beginning of 2020 and it still continues to affect our daily life. In this work, we investigated the most crucial COVID-19 preventions that are wearing a proper face mask, avoid touching the face with unsterilized hands, and keeping the social distance from others. For this purpose, we proposed a comprehensive prevention control system using deep CNN models. In proposed system, we trained face mask detection and face-hand interaction detection models using well-known deep CNN models. Further, we proposed an estimated geometrics-based distance controlling algorithm. 
 
-In the purpose of this study, we collected and annotated two novel datasets. The first dataset which is named as Interactive Systems Labs Unconstrained Face Mask Dataset (ISL-UFMD), contains 21316 face images. The second dataset which is named as Interactive Systems Labs Unconstrained Face Hand Dataset (ISL-UFHD), contains 32293 face images.   The datasets were collected from the Internet. Each source and the related license is explicitly mentioned under the Licence Agreement section. Information about each image is also explained in detail in isl-ufmd_info.xml and isl-ufhd_info.xml.
+In the purpose of this study, we collected and annotated two novel datasets. The first dataset which is named as Interactive Systems Labs Unconstrained Face Mask Dataset (ISL-UFMD), contains 21316 face images. The second dataset which is named as Interactive Systems Labs Unconstrained Face Hand Dataset (ISL-UFHD), contains 32293 face images.   The datasets were collected from the Internet. Each source and the related license is explicitly mentioned under the Licence Agreement section. Information about each image is also explained in detail in ixml files.
 
-Only the portions of datasets that available for free use only for research purposes are published directly by the download link. You have to obtain by yourself the other remaining portions that are not allowed to redistribute. The related information about the sources of these images is shared in isl-ufmd_info.xml and isl-ufhd_info.xml for each dataset.
+Only the portions of datasets that available for free use only for research purposes are published directly by the download link. You have to obtain by yourself the other remaining portions that are not allowed to redistribute. The related information about the sources of these images is shared in xml files for each dataset.
 
 ## Interactive Systems Labs (ISL) Unconstrained Face Mask Dataset (ISL-UFMD) ##
 
 
-![picture](images/fm.png)
+![picture](images/isl-fmd.png)
 
 
 ## Interactive Systems Labs (ISL) Unconstrained Face Hand Interaction Dataset (ISL-UFHD) ##
 
 
-![picture](images/fhi.png)
+![picture](images/isl-fhd.png)
 
 ## License Agreement ##
 
