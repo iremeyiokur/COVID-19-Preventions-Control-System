@@ -6,7 +6,7 @@ In the purpose of this study, we collected and annotated two novel datasets. The
 
 Only the portions of datasets that available for free use only for research purposes are published directly by the download link. You have to obtain by yourself the other remaining portions that are not allowed to redistribute. The related information about the sources of these images is shared in xml files for each dataset.
 
-### The ISL-UFMD and ISL-UFHD datasets and face mask - face hand annotations are available NOW!! Please send a request with your <Educational E-mail Address>. ###
+### The ISL-UFMD and ISL-UFHD datasets and face mask - face hand annotations are available NOW!! Please send a request with your -Educational E-mail Address-. ###
 
 ## Interactive Systems Labs (ISL) Unconstrained Face Mask Dataset (ISL-UFMD) ##
 
