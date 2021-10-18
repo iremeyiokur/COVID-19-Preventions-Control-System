@@ -2,9 +2,9 @@
 
 This is the GitHub repository of our work on the COVID-19 preventions control system to avoid transmission of the disease. Recently, The COVID-19 pandemic has affected the world since the beginning of 2020 and it still continues to affect our daily life. In this work, we investigated the most crucial COVID-19 preventions that are wearing a proper face mask, avoid touching the face with unsterilized hands, and keeping the social distance from others. For this purpose, we proposed a comprehensive prevention control system using deep CNN models. In proposed system, we trained face mask detection and face-hand interaction detection models using well-known deep CNN models. Further, we proposed an estimated geometrics-based distance controlling algorithm. 
 
-In the purpose of this study, we collected and annotated two novel datasets. The first dataset which is named as Interactive Systems Labs Unconstrained Face Mask Dataset (ISL-UFMD), contains 20891* face images. The second dataset which is named as Interactive Systems Labs Unconstrained Face Hand Dataset (ISL-UFHD), contains 32293 face images.   The datasets were collected from the Internet. Each source and the related license is explicitly mentioned under the Licence Agreement section. Information about each image is also explained in detail in ixml files.
+In the purpose of this study, we collected and annotated two novel datasets. The first dataset which is named as Interactive Systems Labs Unconstrained Face Mask Dataset (ISL-UFMD), contains 20891* face images. The second dataset which is named as Interactive Systems Labs Unconstrained Face Hand Dataset (ISL-UFHD), contains 30056* face images.   The datasets were collected from the Internet. Each source and the related license is explicitly mentioned under the Licence Agreement section. <--!Information about each image is also explained in detail in ixml files.-->
 
-Only the portions of datasets that available for free use only for research purposes are published directly by the download link. You have to obtain by yourself the other remaining portions that are not allowed to redistribute. The related information about the sources of these images is shared in xml files for each dataset.
+Only the portions of datasets that available for free use only for research purposes are published directly by the download link. You have to obtain by yourself the other remaining portions that are not allowed to redistribute. The related information about the sources of these images is shared in files for each dataset.
 
 *: The reason why the number of images is different from the paper is that we need to remove some images from a specific source due to the license restrictions.
 
@@ -37,6 +37,10 @@ Each portion of the ISL-UFMD and ISL-UFHD datasets with sources and source licen
  * Source: https://www.pexels.com
  * The license of source images: https://www.pexels.com/license/
 
+### Unsplash Images ###
+ * Source: https://unsplash.com/
+ * The license of source images: https://unsplash.com/license
+
 ### FFQH Images ###
 
 * Source: https://github.com/NVlabs/ffhq-dataset
@@ -47,10 +51,24 @@ Each portion of the ISL-UFMD and ISL-UFHD datasets with sources and source licen
 * Source: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 * The license of source images: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html (Agreement Section)
 
-### Labeled Facec in the Wild (LFW) Dataset ###
+### WIDER FACE Dataset ###
+
+* Source: http://shuoyang1213.me/WIDERFACE/
+
+### Labeled Face in the Wild (LFW) Dataset ###
 
 * Source: http://vis-www.cs.umass.edu/lfw/ 
 * Available research purpose only
+
+### Cross-Age Celebrity Dataset (CACD) Dataset ###
+
+* Source: https://bcsiriuschen.github.io/CARC/
+* Available academic research purpose only
+
+### HandOverFace(HOF) Dataset ###
+
+* Source: https://github.com/aurooj/Hand-Segmentation-in-the-Wild
+* The license of source images: https://github.com/aurooj/Hand-Segmentation-in-the-Wild/blob/master/license.txt
 
 ### Youtube Videos ###
 
@@ -74,4 +92,3 @@ These datasets have been explained and have been used in [our paper](https://arx
 }
 ```
 
-Note: The additional annotations will be published soon.
