@@ -84,11 +84,13 @@ Each portion of the ISL-UFMD and ISL-UFHD datasets with sources and source licen
 These datasets have been explained and have been used in [our paper](https://arxiv.org/abs/2103.08773). You must cite our paper, if you downloaded and used our datasets.
 
 ```
-@article{eyiokur2021computer,
-  title={A Computer Vision System to Help Prevent the Transmission of COVID-19},
-  author={Eyiokur, Fevziye Irem and Ekenel, Haz{\i}m Kemal and Waibel, Alexander},
-  journal={arXiv preprint arXiv:2103.08773},
-  year={2021}
+@article{eyiokur2022unconstrained,
+  title={Unconstrained face mask and face-hand interaction datasets: building a computer vision system to help prevent the transmission of COVID-19},
+  author={Eyiokur, Fevziye Irem and Ekenel, Haz{\i}m Kemal and Waibel, Alexander},
+  journal={Signal, Image and Video Processing},
+  pages={1--8},
+  year={2022},
+  publisher={Springer}
 }
 ```
 
