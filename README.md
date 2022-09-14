@@ -8,7 +8,7 @@ Only the portions of datasets that available for free use only for research purp
 
 *: The reason why the number of images is different from the paper is that we need to remove some images from a specific source due to the license restrictions.
 
-### The ISL-UFMD and ISL-UFHD datasets and face mask - face hand annotations are available NOW!! Please send a request with your -Educational E-mail Address- to (fevziye.yaman@kit.edu, irem.eyiokur@kit.edu). ###
+### The ISL-UFMD and ISL-UFHD datasets and face mask - face hand annotations are available NOW!! Please send a request with your -Educational E-mail Address- to (irem.eyiokur@kit.edu). ###
 
 ## Interactive Systems Labs (ISL) Unconstrained Face Mask Dataset (ISL-UFMD) ##
 
